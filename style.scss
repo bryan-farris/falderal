@@ -72,3 +72,12 @@ ul, ol {
         transform: translateY(-2px);
     }
 }
+
+.songkick__wrap {
+    max-width: 768px;
+    width: 80%;
+
+    > div {
+        width: 100%;
+    }
+}
