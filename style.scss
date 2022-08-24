@@ -55,12 +55,9 @@ ul, ol {
     display: flex;
     justify-content: space-between;
     list-style: none;
-    position: absolute;
-    left: 52%;
-    transform: translateX(-50%);
     width: 80%;
     max-width: 700px;
-    bottom: 150px;
+    margin-bottom: 3rem;
 }
 
 .social__link {
